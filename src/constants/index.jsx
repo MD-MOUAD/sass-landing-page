@@ -4,7 +4,7 @@ export const features = [
     icon: "/images/feature-1.png",
     caption: "Seamless Setup",
     title: "Smarter Work, Less Effort",
-    text: "With NovaUI, tedious tasks are history. Automation and intelligent design elevate your productivity to new heights. It’s like an extra shot of focus—no caffeine required.",
+    text: "With Pixen, tedious tasks are history. Automation and intelligent design elevate your productivity to new heights. It’s like an extra shot of focus—no caffeine required.",
     button: {
       icon: "/images/magictouch.svg",
       title: "Watch the demo",
@@ -15,7 +15,7 @@ export const features = [
     icon: "/images/feature-2.png",
     caption: "Secure & reliable",
     title: "Sleep easy, we got your back",
-    text: "Your data’s safety is our mission. With advanced encryption and powerful privacy features, NovaUI keeps your information secure and locked up tighter than Fort Knox.",
+    text: "Your data’s safety is our mission. With advanced encryption and powerful privacy features, Pixen keeps your information secure and locked up tighter than Fort Knox.",
     button: {
       icon: "/images/docs.svg",
       title: "Read the docs",
