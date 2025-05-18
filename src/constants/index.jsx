@@ -159,3 +159,54 @@ export const faq = [
       "Click on 'Forgot Password' to reset your login. If you’re still having trouble, contact our support team—they’re available 24/7 to help you regain access.",
   },
 ];
+
+export const testimonials = [
+  {
+    id: "0",
+    name: "Lena Morgan",
+    role: "Freelance Designer",
+    avatarUrl: "/images/testimonials/lena-morgan.png",
+    comment:
+      "Pixen feels like creative magic. I generate and tweak images faster than ever—total game changer.",
+  },
+  {
+    id: "1",
+    name: "Andre Velez",
+    role: "Marketing Lead, AdNova",
+    avatarUrl: "/images/testimonials/andre-velez.png",
+    comment:
+      "We use Pixen for ad creatives, and it's shaved days off our production time. Massive ROI.",
+  },
+  {
+    id: "2",
+    name: "Mei Tanaka",
+    role: "UI/UX Consultant",
+    avatarUrl: "/images/testimonials/mei-tanaka.png",
+    comment:
+      "The interface is clean, the AI is smart, and the output? Always impressive. Love this tool!",
+  },
+  {
+    id: "3",
+    name: "Elina Bennett",
+    role: "Founder, PixelForge Studio",
+    avatarUrl: "/images/testimonials/elina-bennett.png",
+    comment:
+      "From concept to final visual—Pixen does it all. It’s now a core part of our creative process.",
+  },
+  {
+    id: "4",
+    name: "Rania El-Amin",
+    role: "Social Media Manager",
+    avatarUrl: "/images/testimonials/rania-elamin.png",
+    comment:
+      "Creating visuals used to be a hassle. Now I just type what I need and Pixen handles the rest.",
+  },
+  {
+    id: "5",
+    name: "Jake Holloway",
+    role: "Content Creator",
+    avatarUrl: "/images/testimonials/jake-holloway.png",
+    comment:
+      "Pixen cuts my editing time in half. It’s like having a built-in creative assistant.",
+  },
+];
