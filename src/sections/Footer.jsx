@@ -5,7 +5,18 @@ const Footer = () => {
     <footer>
       <div className="container py-10">
         <div className="flex w-full max-md:flex-col">
-          <div className="small-compact flex flex-1 flex-wrap items-center justify-center gap-5">
+          <div className="small-compact flex flex-col flex-1 flex-wrap items-center justify-center gap-1">
+            <p>
+              Developed by{" "}
+              <a
+                href="https://github.com/MD-MOUAD"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-500 hover:underline"
+              >
+                Mouad khanouch
+              </a>
+            </p>
             <p className="opacity-70">
               &copy; 2025 Pixen. All rights reserved.
             </p>
