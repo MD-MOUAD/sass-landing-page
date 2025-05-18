@@ -45,3 +45,54 @@ export const details = [
     title: "24 / 7 Customer support",
   },
 ];
+
+export const plans = [
+  {
+    id: "0",
+    title: "Starter",
+    priceMonthly: 15,
+    priceYearly: 10,
+    caption: "Great for casual creators",
+    features: [
+      "500 image generations/month",
+      "Basic editing tools",
+      "2GB cloud storage",
+      "Community support",
+      "Access to standard templates",
+    ],
+    icon: "/images/circle.svg",
+    logo: "/images/plan-1.png",
+  },
+  {
+    id: "1",
+    title: "Pro",
+    priceMonthly: 49,
+    priceYearly: 35,
+    caption: "Perfect for professionals",
+    features: [
+      "Unlimited image generations",
+      "Advanced editing suite",
+      "50GB cloud storage",
+      "Priority support",
+      "Access to premium models",
+    ],
+    icon: "/images/triangle.svg",
+    logo: "/images/plan-2.png",
+  },
+  {
+    id: "2",
+    title: "Studio",
+    priceMonthly: 99,
+    priceYearly: 69,
+    caption: "Built for creative teams",
+    features: [
+      "All Pro features",
+      "Team collaboration tools",
+      "500GB shared storage",
+      "Custom model training",
+      "Dedicated support",
+    ],
+    icon: "/images/hexagon.svg",
+    logo: "/images/plan-3.png",
+  },
+];
